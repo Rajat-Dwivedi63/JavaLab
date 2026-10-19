@@ -52,4 +52,4 @@ To perform basic arithmetic operations using **Java RMI** and understand remote 
 
 ## 👩‍💻 Author
 
-**Neha Mulani**
+Rajat Dwivedi
