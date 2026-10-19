@@ -116,4 +116,4 @@ The main purpose of this project is to understand how two Java programs can comm
 
 ## 👩‍💻 Author
 
-**Neha Mulani**
+Rajat Dwivedi
